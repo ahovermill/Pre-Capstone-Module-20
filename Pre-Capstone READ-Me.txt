@@ -1,0 +1,31 @@
+REAM-ME
+
+Pre-Capstone Module 20: Veteran Employment Outcomes
+My original business problem was to predict the home buying trends for Millennials and Gen-Z’s; however, searching for this information led me to find the Veteran Employment Outcome survey. This data aligned more with my current job function and made more sense for me to explore this business problem. I do know this needs work and will be seeking advise on how I can use this data to provide meaningful information. 
+
+Business Problem: 
+Are we collecting enough data to determine if National and State programs are adequately employing United States ‘veterans’ into the U.S. labor market? 
+
+Data Source: 
+Data is based on U.S. Census Bureau Veteran Employment Outcome (VEO) Survey. This data is made available through the data sharing partnerships between the U.S. Army, U.S. Census Bureau, and State Labor Mark Information Offices. Data is available at both the state and national level. 
+
+Data Dictionary: This is an excel spreadsheet on the VEO link above; however, I will combine the list and properly create a data dictionary for the Capstone.
+
+Background:
+Experimental survey is based on data sourced from US Army records. These records are shared with the US Census Bureau for recently discharged enlisted Army Veterans. 
+
+Business Outcome:
+Identify trends and gaps in “Veteran” Labor Market by mapping and analyzing data from Army active duty discharged servicemen and servicewomen information to the national database of jobs. The timeframe of data collection is from 2000 and 2015. Data statistics for this Capstone include DoD Occupational Code/Specialization, Employer Industry Code, and veteran demographics (age and location).
+
+Evaluation Cohorts
+Veterans were grouped into two cohorts based on their year of separation from active-duty service. 
+•	Eight-year bins: 2000-2007 and 2008-2015
+•	16 year bins: 2000-2015 (this included all occupations)
+
+Two Datasets were created from the DoD to Industry excel file.
+1)	Original dataset (new_df)
+2)	Subset dataset (new_df_1)
+
+Predictions:
+Predictions were made from the new_df_1 dataset; however, the predictions. This could be a result of not having more information with the opportunity to concatenate other datasets.
+
